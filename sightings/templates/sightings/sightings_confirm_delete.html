@@ -1,0 +1,8 @@
+<h1>Delete Sighting {{ sighting.UniqueSquirrelID }} </h1>
+
+<p>Are you sure you want to delete the sighting: {{ sighting.UniqueSquirrelID }}?</p>
+
+<form action="" method="post">
+  {% csrf_token %}
+  <button type="submit" class=="btn btn-danger">Delete</button>
+</form>
