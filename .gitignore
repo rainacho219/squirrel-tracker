@@ -1,0 +1,9 @@
+env/
+db.sqlite3
+map/__pycache__/
+map/migrations/
+sightings/__pycache__/
+sightings/migrations/
+sightings/management/__pycache__/
+sightings/management/commands/__pycache__/
+squirrels/__pycache__/
