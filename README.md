@@ -1,13 +1,11 @@
-#squirrel-tracker
+__<h1>Squirrel Tracker: Django-Based  Web Application for Tracking Central Park Squirrel Census Data</h1>__
 
-Group Name: Project Group 11
-Group Members: Raina Cho & Jenny Park
-Tools for Analytics Section 1
-UNIs: [jp3256, hc3130]
+__<h2>Group Name: Project Group 11</h2>__  
+__<h2>Group Members: Raina Cho & Jenny Park</h2>__  
+__<h2>Tools for Analytics Section 1</h2>__
+__<h2>UNIs: [jp3256, hc3130]</h2>__  
 
-Squirrel Tracker: Django-Based  Web Application for Tracking Central Park Squirrel Census Data
-
-Included Management Commands
+<h3>Included Management Commands</h3>
 1. import_squirrel_data
 	- Command to import 2018 Central Park Squirrel Census data in CSV format
 	- $ python manage.py import_squirrel_data /path/to/importfile.csv
@@ -15,7 +13,7 @@ Included Management Commands
 	- Command to export data in CSV format
 	- $ python manage.py export_squirrel_data /path/to/exportfile.csv
 
-Included Views
+<h3>Included Views</h3>
 1. View with a map showing the location of squirrel sightings (located at: /map)
 2. View listing all squirrel sightings with links to edit and add squirrel sightings (located at: /sightings)
 3. View for updating a particular squirrel sighting (located at: /sightings/unique-squirrel-id)
@@ -23,7 +21,7 @@ Included Views
 5. View for deleting a particular sighting (located at: /sightings/unique-squirrel-id)
 6. View showing general statistics about the squirrel sightings (located at: /sightings/stats)
 
-Supported Fields
+<h3>Supported Fields</h3>
 - Latitude
 - Longitude
 - Unique Squirrel ID
@@ -47,4 +45,3 @@ Supported Fields
 - Approaches
 - Indifferent
 - Runs from
-
