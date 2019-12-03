@@ -1,14 +1,14 @@
 __<h1>Squirrel Tracker: Django-Based  Web Application for Tracking Central Park Squirrel Census Data</h1>__
 
-__<h2>Group Name: Project Group 11</h2>__  
-__<h2>Group Members: Raina Cho & Jenny Park</h2>__  
-__<h2>Tools for Analytics Section 1</h2>__
-__<h2>UNIs: [jp3256, hc3130]</h2>__  
+__<ul><li>Group Name: Project Group 11</li>__  
+__<li>Group Members: Raina Cho & Jenny Park</li>__  
+__<li>Tools for Analytics Section 1</li>__
+__<li>UNIs: [jp3256, hc3130]</li></ul>__  
 
 <h3>Included Management Commands</h3>
 <h4>import_squirrel_data.py </h4><ul>
 <li>Command to import 2018 Central Park Squirrel Census data in CSV format</li>
-<li>python manage.py import_squirrel_data /path/to/importfile.csv</li>
+<li>$ python manage.py import_squirrel_data /path/to/importfile.csv</li>
 </ul>
 
 <h4>export_squirrel_data</h4>
