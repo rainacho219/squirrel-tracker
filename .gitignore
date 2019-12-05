@@ -1,4 +1,5 @@
 env/
+collected-static/
 db.sqlite3
 map/__pycache__/
 map/migrations/
