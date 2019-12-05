@@ -4,7 +4,7 @@ __<h1>Squirrel Tracker: Django-Based  Web Application for Tracking Central Park 
 <li>Project Group 11, Section 1</li>
 <li>UNIs: [jp3256, hc3130]</li>
 <li>Raina Cho & Jenny Park</li>
-<a href="https://jennyjihyuonpark-jp3256-tools.appspot.com/">https://jennyjihyuonpark-jp3256-tools.appspot.com/map/</a>
+<a href="https://jennyjihyuonpark-jp3256-tools.appspot.com/">https://jennyjihyuonpark-jp3256-tools.appspot.com/</a>
 </ul>
 
 <h2>Included Management Commands</h2>
